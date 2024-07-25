@@ -1,0 +1,4 @@
+/* Gallery.css */
+.group:hover img {
+    transform: scale(1.1);
+}
